@@ -1,0 +1,6 @@
+{
+    "name": "tmloberon/packagist",
+    "description": "Preventing Dependency Confusion in PHP with Composer",
+    "type": "project",
+    "require": {}
+}
